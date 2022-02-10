@@ -14,7 +14,6 @@ import java.util.Set;
 @Table(name="orders")
 @Getter
 @Setter
-
 public class Order {
 
     @Id
